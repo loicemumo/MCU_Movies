@@ -23,10 +23,10 @@ The data used for this project includes various movie metrics such as:
 ## Key Insights
 
 1. **Budget vs. Worldwide Gross**:
-   - A **moderate positive correlation** between budget and worldwide gross was found. Higher-budget movies tend to make more money, but there are outliers where lower-budget films did exceptionally well.
+A **moderate positive correlation** between budget and worldwide gross was found. Higher-budget movies tend to make more money, but there are outliers where lower-budget films did exceptionally well.
 
 2. **Revenue Trends Over Time**:
-   - The MCU has seen **consistent growth** in earnings over the years, reflecting its increasing global popularity.
+The MCU has seen **consistent growth** in earnings over the years, reflecting its increasing global popularity.
 
 3. **Rating Distribution**:
 Ratings across different platforms showed that **audience ratings** and **critics’ scores** often diverge, showing the varied perspectives of viewers versus critics.
