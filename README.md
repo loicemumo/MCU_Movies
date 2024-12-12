@@ -11,7 +11,7 @@ In this analysis, I:
 - Identified the **most profitable movies** based on absolute profit and profit margin.
 - Created various visualizations, including scatter plots, line charts, and **dual-axis combo charts**, to showcase insights clearly.
 
-## Data Sources
+## Data Overview
 
 The data used for this project includes various movie metrics such as:
 - **Budget**: The production cost of the movie.
