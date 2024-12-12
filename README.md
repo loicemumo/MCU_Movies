@@ -37,7 +37,7 @@ While big-budget films tend to have high **absolute profits**, smaller-budget mo
 5. **Dual-Axis Combo Chart**:
 I used a **dual-axis combo chart** to compare the **absolute profit** and **profit margin** of the top 5 most profitable movies. This visualization helped illustrate the relationship between profit and profitability in a clear and intuitive way.
 
-## Technologies Used
+## Tech Stack
 
 - **Python** (v3.x)
 - **Pandas**: For data manipulation and analysis.
